@@ -63,4 +63,68 @@ WHERE
 DELETE FROM Students
 WHERE
      Student_id='104';
+     
+SELECT 
+       * 
+FROM 
+       Students
+WHERE
+     age>20;
 
+SELECT
+	   *
+FROM 
+     Students
+ORDER BY
+      name;
+
+SELECT 
+       COUNT(*),course_id
+FROM 
+      Students
+GROUP BY
+        course_id;
+
+SELECT * FROM Students;
+
+SELECT
+       course_id
+FROM 
+       Students
+GROUP BY
+       course_id
+HAVING
+       COUNT(*)>2;
+       
+SELECT
+      s.*,c.course_name
+FROM 
+     Students As s
+INNER JOIN
+      Courses AS c
+ON
+     s.course_id=c.course_id;
+     
+SELECT 
+      c.*,s.*
+FROM
+     Courses As c
+LEFT JOIN
+	Students As s
+ON
+    c.course_id=s.course_id;
+    
+SELECT
+       AVG(score) As Average,MAX(score) As Highest,MIN(score) As Lowest,subject
+FROM
+	   Marks
+GROUP BY
+       subject;
+       
+SELECT 
+      gender,COUNT(*)
+FROM
+     Students
+GROUP BY
+     gender;
+     
