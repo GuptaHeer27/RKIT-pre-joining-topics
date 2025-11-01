@@ -1,0 +1,13 @@
+Date Processed: 2025-10-07 23:09:41
+Total Returns: 7
+Condition Counts:
+  New: 2
+  Worn: 2
+  Good: 3
+
+Top 5 Titles by Penalty:
+The Hobbit by J.R.R. Tolkien => Penalty 3
+Pride and Prejudice by Jane Austen => Penalty 3
+Harry Potter and the Sorcerer's Stone by J.K. Rowling => Penalty 0
+To Kill a Mockingbird by Harper Lee => Penalty 0
+The Catcher in the Rye by J.D. Salinger => Penalty 0

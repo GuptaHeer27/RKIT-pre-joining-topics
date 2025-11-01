@@ -1,0 +1,35 @@
+C:\Users\heerd\source\repos\Demo week 3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\heerd\source\repos\Demo week 3\bin\Debug\net8.0\appsettings.json
+C:\Users\heerd\source\repos\Demo week 3\bin\Debug\net8.0\Demo week 3.staticwebassets.endpoints.json
+C:\Users\heerd\source\repos\Demo week 3\bin\Debug\net8.0\Demo week 3.exe
+C:\Users\heerd\source\repos\Demo week 3\bin\Debug\net8.0\Demo week 3.deps.json
+C:\Users\heerd\source\repos\Demo week 3\bin\Debug\net8.0\Demo week 3.runtimeconfig.json
+C:\Users\heerd\source\repos\Demo week 3\bin\Debug\net8.0\Demo week 3.dll
+C:\Users\heerd\source\repos\Demo week 3\bin\Debug\net8.0\Demo week 3.pdb
+C:\Users\heerd\source\repos\Demo week 3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\heerd\source\repos\Demo week 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\heerd\source\repos\Demo week 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\heerd\source\repos\Demo week 3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\Demo week 3.csproj.AssemblyReference.cache
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\Demo week 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\Demo week 3.AssemblyInfoInputs.cache
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\Demo week 3.AssemblyInfo.cs
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\Demo week 3.csproj.CoreCompileInputs.cache
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\Demo week 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\Demo week 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\scopedcss\bundle\Demo week 3.styles.css
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\Demo wee.41001B5E.Up2Date
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\Demo week 3.dll
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\refint\Demo week 3.dll
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\Demo week 3.pdb
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\Demo week 3.genruntimeconfig.cache
+C:\Users\heerd\source\repos\Demo week 3\obj\Debug\net8.0\ref\Demo week 3.dll

@@ -1,0 +1,15 @@
+C:\Users\heerd\source\repos\Assignment week 3\obj\Debug\net8.0\Assignment week 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heerd\source\repos\Assignment week 3\obj\Debug\net8.0\Assignment week 3.AssemblyInfoInputs.cache
+C:\Users\heerd\source\repos\Assignment week 3\obj\Debug\net8.0\Assignment week 3.AssemblyInfo.cs
+C:\Users\heerd\source\repos\Assignment week 3\obj\Debug\net8.0\Assignment week 3.csproj.CoreCompileInputs.cache
+C:\Users\heerd\source\repos\Assignment week 3\bin\Debug\net8.0\Assignment week 3.exe
+C:\Users\heerd\source\repos\Assignment week 3\bin\Debug\net8.0\Assignment week 3.deps.json
+C:\Users\heerd\source\repos\Assignment week 3\bin\Debug\net8.0\Assignment week 3.runtimeconfig.json
+C:\Users\heerd\source\repos\Assignment week 3\bin\Debug\net8.0\Assignment week 3.dll
+C:\Users\heerd\source\repos\Assignment week 3\bin\Debug\net8.0\Assignment week 3.pdb
+C:\Users\heerd\source\repos\Assignment week 3\obj\Debug\net8.0\Assignment week 3.dll
+C:\Users\heerd\source\repos\Assignment week 3\obj\Debug\net8.0\refint\Assignment week 3.dll
+C:\Users\heerd\source\repos\Assignment week 3\obj\Debug\net8.0\Assignment week 3.pdb
+C:\Users\heerd\source\repos\Assignment week 3\obj\Debug\net8.0\Assignment week 3.genruntimeconfig.cache
+C:\Users\heerd\source\repos\Assignment week 3\obj\Debug\net8.0\ref\Assignment week 3.dll
+C:\Users\heerd\source\repos\Assignment week 3\bin\Debug\net8.0\input.csv
