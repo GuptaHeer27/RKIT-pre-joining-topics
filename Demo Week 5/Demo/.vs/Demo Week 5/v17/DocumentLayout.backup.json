@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|c:\\users\\heerd\\source\\repos\\demo week 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|c:\\users\\heerd\\source\\repos\\demo week 5\\productorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|solutionrelative:productorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|c:\\users\\heerd\\source\\repos\\demo week 5\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|solutionrelative:security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|c:\\users\\heerd\\source\\repos\\demo week 5\\linqlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|solutionrelative:linqlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|c:\\users\\heerd\\source\\repos\\demo week 5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|c:\\users\\heerd\\source\\repos\\demo week 5\\linqdatatabledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|solutionrelative:linqdatatabledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|c:\\users\\heerd\\source\\repos\\demo week 5\\migrations\\productcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|solutionrelative:migrations\\productcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|c:\\users\\heerd\\source\\repos\\demo week 5\\migrations\\20251014090208_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|solutionrelative:migrations\\20251014090208_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|c:\\users\\heerd\\source\\repos\\demo week 5\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B759C2F-210F-4AE0-903C-A0BC9B1F00B6}|Demo Week 5.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\Migrations\\ProductContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ProductContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\Migrations\\ProductContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ProductContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:00:27.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Security.cs",
+              "DocumentMoniker": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\Security.cs",
+              "RelativeDocumentMoniker": "Security.cs",
+              "ToolTip": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\Security.cs",
+              "RelativeToolTip": "Security.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:08:15.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinqDataTableDemo.cs",
+              "DocumentMoniker": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\LinqDataTableDemo.cs",
+              "RelativeDocumentMoniker": "LinqDataTableDemo.cs",
+              "ToolTip": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\LinqDataTableDemo.cs",
+              "RelativeToolTip": "LinqDataTableDemo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T05:08:40.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LINQList.cs",
+              "DocumentMoniker": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\LINQList.cs",
+              "RelativeDocumentMoniker": "LINQList.cs",
+              "ToolTip": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\LINQList.cs",
+              "RelativeToolTip": "LINQList.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:53:44.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:52:35.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:51:42.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductORM.cs",
+              "DocumentMoniker": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\ProductORM.cs",
+              "RelativeDocumentMoniker": "ProductORM.cs",
+              "ToolTip": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\ProductORM.cs",
+              "RelativeToolTip": "ProductORM.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:40:49.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:39:03.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251014090208_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\Migrations\\20251014090208_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251014090208_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\heerd\\source\\repos\\Demo Week 5\\Migrations\\20251014090208_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251014090208_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:02:09.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

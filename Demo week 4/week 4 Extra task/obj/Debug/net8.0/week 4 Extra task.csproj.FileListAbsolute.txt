@@ -1,0 +1,18 @@
+C:\Users\heerd\source\repos\week 4 Extra task\bin\Debug\net8.0\week 4 Extra task.exe
+C:\Users\heerd\source\repos\week 4 Extra task\bin\Debug\net8.0\week 4 Extra task.deps.json
+C:\Users\heerd\source\repos\week 4 Extra task\bin\Debug\net8.0\week 4 Extra task.runtimeconfig.json
+C:\Users\heerd\source\repos\week 4 Extra task\bin\Debug\net8.0\week 4 Extra task.dll
+C:\Users\heerd\source\repos\week 4 Extra task\bin\Debug\net8.0\week 4 Extra task.pdb
+C:\Users\heerd\source\repos\week 4 Extra task\bin\Debug\net8.0\CustomSerializer.dll
+C:\Users\heerd\source\repos\week 4 Extra task\bin\Debug\net8.0\CustomSerializer.pdb
+C:\Users\heerd\source\repos\week 4 Extra task\obj\Debug\net8.0\week 4 Extra task.csproj.AssemblyReference.cache
+C:\Users\heerd\source\repos\week 4 Extra task\obj\Debug\net8.0\week 4 Extra task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heerd\source\repos\week 4 Extra task\obj\Debug\net8.0\week 4 Extra task.AssemblyInfoInputs.cache
+C:\Users\heerd\source\repos\week 4 Extra task\obj\Debug\net8.0\week 4 Extra task.AssemblyInfo.cs
+C:\Users\heerd\source\repos\week 4 Extra task\obj\Debug\net8.0\week 4 Extra task.csproj.CoreCompileInputs.cache
+C:\Users\heerd\source\repos\week 4 Extra task\obj\Debug\net8.0\week 4 E.EE2AC4A8.Up2Date
+C:\Users\heerd\source\repos\week 4 Extra task\obj\Debug\net8.0\week 4 Extra task.dll
+C:\Users\heerd\source\repos\week 4 Extra task\obj\Debug\net8.0\refint\week 4 Extra task.dll
+C:\Users\heerd\source\repos\week 4 Extra task\obj\Debug\net8.0\week 4 Extra task.pdb
+C:\Users\heerd\source\repos\week 4 Extra task\obj\Debug\net8.0\week 4 Extra task.genruntimeconfig.cache
+C:\Users\heerd\source\repos\week 4 Extra task\obj\Debug\net8.0\ref\week 4 Extra task.dll

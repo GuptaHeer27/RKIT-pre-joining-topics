@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "week 4 Extra task/1.0.0": {
+        "dependencies": {
+          "CustomSerializer": "1.0.0"
+        },
+        "runtime": {
+          "week 4 Extra task.dll": {}
+        }
+      },
+      "CustomSerializer/1.0.0": {
+        "runtime": {
+          "CustomSerializer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "week 4 Extra task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomSerializer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
